@@ -3,8 +3,7 @@
 ## Overview  
 The Plagiarism Checker is a lightweight and efficient tool written in C that compares multiple text files, including TXT and PDF, to detect similarity using the Jaccard Similarity algorithm. This project is designed to help users identify potential plagiarism in documents.  
 
----
-
+---
 ## Project Structure  
 
 ```
