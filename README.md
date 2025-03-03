@@ -113,7 +113,7 @@ This project is open-source and available under the MIT License.
 ## Author  
 
 Abhinaba Ghosh  
-GitHub: https://github.com/YOUR_GITHUB_USERNAME  
+GitHub: https://github.com/The-Abhinaba  
 
 ---
 
