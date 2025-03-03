@@ -29,7 +29,7 @@ plagiarism_checker
 ### Step 1: Clone the Repository  
 
 ```sh
-git clone https://github.com/YOUR_GITHUB_USERNAME/plagiarism_checker.git  
+git clone https://github.com/The-Abhinaba/plagiarism_checker.git  
 cd plagiarism_checker  
 ```
 
